@@ -354,7 +354,7 @@ chrome.runtime.sendMessage({
 
 ```bash
 # Clone repository
-git clone https://github.com/your-repo/research-paper-rag
+git clone https://github.com/octobass-dev/research_assistant
 cd research-paper-rag
 
 # Install development dependencies
