@@ -355,12 +355,12 @@ chrome.runtime.sendMessage({
 ```bash
 # Clone repository
 git clone https://github.com/octobass-dev/research_assistant
-cd research-paper-rag
+cd research_assistant
 
-# Install development dependencies
+# TODO : Install development dependencies
 pip install -r requirements-dev.txt
 
-# Run tests
+# TODO : Run tests
 python -m pytest tests/
 
 # Format code
